@@ -4,7 +4,7 @@ A minimal web app that lets you save links and instantly get short, readable sum
 
 ## What it does
 
-- Sign in with Google (Supabase Auth).
+- Sign in with Google (Supabase Auth) and Google Client Console.
 - Save any URL and automatically:
   - Fetch the page title and favicon.
   - Fetch readable article text via Jina Reader.
